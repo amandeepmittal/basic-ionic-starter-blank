@@ -2,7 +2,7 @@ This is an Fork of starter template for the [Ionic Framework](http://ionicframew
 
 ## Installing this template
 ```bash
-$ ionic start appname https://github.com/amadeepmittal/basic-ionic-starter-blank
+$ ionic start appname https://github.com/amandeepmittal/basic-ionic-starter-blank
 $ cd appname
 $ ionic serve -l
 ```
